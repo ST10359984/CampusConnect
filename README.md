@@ -107,4 +107,4 @@ com.example.campusconnect/
 * **Avuyile**
 * **Kabelo**
 
-Do you want me to tweak it a bit to sound more like a formal **university project summary** (for a PoE or report)?
+![Screenshot_20251014_235720_CampusConnect](https://github.com/user-attachments/assets/9550f9c8-aa03-4e0c-8f4b-9cf2c1356ae9)
