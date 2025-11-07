@@ -68,6 +68,7 @@ In addition, a Google Sign-In feature has been successfully integrated, simplify
 Navigation has been significantly improved as well. The bottom navigation bar now provides clear and smooth access to key sections such as Home, Chat, Create Post, Friends, and Profile. Compared to the prototype’s limited navigation structure, this new layout ensures a more intuitive and seamless user experience. Overall, the upgraded version of Campus Connect is more visually appealing, easier to use, and better aligned with the needs and expectations of students.
 
 YouTube Link:https://youtube.com/shorts/JVwjrcYT9R4?si=SgRns8Yj0hpAKaKb
+Privacy Policy : https://www.termsfeed.com/live/bdbe1fda-781a-4cea-b6f6-76eaa0261e71
 
 
 
