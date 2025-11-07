@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.CampusConnect" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.CampusConnect" parent="Base.Theme.CampusConnect" />
+
+    <style name="Theme.CampusConnect.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

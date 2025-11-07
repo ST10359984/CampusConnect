@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusConnect</string>
+
+    <!-- Auth -->
+    <string name="welcome">Wamkelekile! 🎓</string>
+    <string name="login">Ngena</string>
+    <string name="register">Bhalisa</string>
+    <string name="email">Imeyili</string>
+    <string name="password">Iphasiwedi</string>
+    <string name="full_name">Igama Elipheleleyo</string>
+    <string name="forgot_password">Ukhohlwe Iphasiwedi?</string>
+    <string name="switch_to_signup">Awunayo iakhawunti? Bhalisa</string>
+    <string name="switch_to_login">Sele unayo iakhawunti? Ngena</string>
+    <string name="sign_in_google">Ngena ngeGoogle</string>
+    <string name="select_language">Khetha Ulwimi</string>
+
+    <!-- Posts -->
+    <string name="whats_on_your_mind">Yintoni engqondweni yakho?</string>
+    <string name="post">Thumela</string>
+    <string name="search">Khangela</string>
+
+    <string name="user_name">Igama lomsebenzisi</string>
+    <string name="post_text">Bhala apha iposti</string>
+    <string name="likes">0 Izinto Ezithandwayo</string>
+    <string name="comments">0 Izimvo</string>
+    <string name="add_comment">Yongeza izimvo</string>
+    <string name="like">Ndiyathanda</string>
+    <string name="comment">Yenza izimvo</string>
+    <string name="delete">Cima</string>
+
+
+    <!-- Profile & Settings -->
+    <string name="profile">Iprofayile</string>
+    <string name="settings">Useto</string>
+    <string name="logout">Phuma</string>
+    <string name="change_language">Guqula Ulwimi</string>
+</resources>

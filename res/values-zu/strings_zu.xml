@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusConnect</string>
+
+    <!-- Auth -->
+    <string name="welcome">Siyakwamukela! 🎓</string>
+    <string name="login">Ngena ngemvume</string>
+    <string name="register">Bhalisa</string>
+    <string name="email">I-imeyili</string>
+    <string name="password">Iphasiwedi</string>
+    <string name="full_name">Igama Eliphelele</string>
+    <string name="forgot_password">Ukhohlwe Iphasiwedi?</string>
+    <string name="switch_to_signup">Awunayo i-akhawunti? Bhalisa</string>
+    <string name="switch_to_login">Usunayo i-akhawunti? Ngena ngemvume</string>
+    <string name="sign_in_google">Ngena nge-Google</string>
+    <string name="select_language">Khetha Ulimi</string>
+
+    <!-- Posts -->
+    <string name="whats_on_your_mind">Yini esekhanda lakho?</string>
+    <string name="post">Thumela</string>
+    <string name="search">Sesha</string>
+
+    <string name="user_name">Igama lomsebenzisi</string>
+    <string name="post_text">Bhala okuthunyelwe lapha</string>
+    <string name="likes">0 Izinto Ezithandwayo</string>
+    <string name="comments">0 Amazwana</string>
+    <string name="add_comment">Faka ukuphawula</string>
+    <string name="like">Thanda</string>
+    <string name="comment">Phawula</string>
+    <string name="delete">Susa</string>
+
+
+    <!-- Profile & Settings -->
+    <string name="profile">Iphrofayili</string>
+    <string name="settings">Izilungiselelo</string>
+    <string name="logout">Phuma</string>
+    <string name="change_language">Shintsha Ulimi</string>
+</resources>

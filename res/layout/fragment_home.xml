@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="12dp"
+    android:background="#F9F9F9">
+
+    <TextView
+        android:id="@+id/txtEmptyPosts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No posts yet."
+        android:textAlignment="center"
+        android:visibility="gone"
+        android:padding="16dp"
+        android:textSize="16sp"
+        android:textColor="#333"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewPosts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>
